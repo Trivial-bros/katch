@@ -58,4 +58,4 @@ client.on('message', msg => { //on('messgae',msg =>) is a function which tests i
 
  
 //client id cuz we need it
-client.login('ODEzNTIwMDU3NzY1NzI0MTkw.YDQfmA.ZH4s1uIJspULC_Oea5MSAqgaFZ4');
+client.login('Im not showing you my token');
